@@ -5,7 +5,6 @@ The system analyzes user-provided messages or inputs to identify potential scams
 
 The goal of AegisAI is to help users recognize fraudulent messages, phishing attempts, and scam content early, improving digital safety and awareness.
 
----
 
 ## Features
 
@@ -15,7 +14,6 @@ The goal of AegisAI is to help users recognize fraudulent messages, phishing att
 - **Pattern Recognition**: Identifies common scam indicators such as urgency, threats, and suspicious links  
 - **User-Friendly Interface**: Simple and intuitive interaction  
 
----
 
 ## Tech Stack
 
@@ -25,7 +23,6 @@ The goal of AegisAI is to help users recognize fraudulent messages, phishing att
 - **Frontend / Interface**: CLI / Web / Notebook (depending on implementation)  
 - **Development Environment**: VS Code  
 
----
 
 ## How It Works
 
@@ -35,7 +32,6 @@ The goal of AegisAI is to help users recognize fraudulent messages, phishing att
 4. The model evaluates scam likelihood  
 5. Output indicates whether the message is **Safe** or **Potential Scam**
 
----
 
 ## Use Cases
 
@@ -44,13 +40,11 @@ The goal of AegisAI is to help users recognize fraudulent messages, phishing att
 - Raise awareness about digital fraud  
 - Educational tool for understanding scam patterns  
 
----
 
 ## Hackathon Context
 
 This project was developed during **Hackathon 2025**, focusing on applying AI to solve real-world cybersecurity and fraud-prevention problems.
 
----
 
 ## Future Improvements
 
@@ -59,3 +53,4 @@ This project was developed during **Hackathon 2025**, focusing on applying AI to
 - Improved model accuracy with larger datasets  
 - Multi-language support  
 - Web-based UI deployment  
+
